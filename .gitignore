@@ -1,0 +1,8 @@
+# BOZKIR OS - derleme ciktilari
+build/
+dist/
+iso/
+
+# yerel test/derleme araclari (nasm, qemu, xorriso) ve test ciktilari
+.tools/
+artifacts/
