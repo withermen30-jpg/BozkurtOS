@@ -1,7 +1,9 @@
 # BOZKIR OS - derleme ciktilari
 build/
-dist/
 iso/
+dist/*
+# hazir ISO repoda dursun (test icin)
+!dist/bozkir.iso
 
 # yerel test/derleme araclari (nasm, qemu, xorriso) ve test ciktilari
 .tools/
